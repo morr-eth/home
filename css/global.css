@@ -21,7 +21,6 @@ body {
   background-size: cover;
   display: flex;
   flex-direction: column;
-  overflow: hidden;
   height: 100svh;
 }
 
